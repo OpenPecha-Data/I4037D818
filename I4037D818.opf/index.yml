@@ -1,0 +1,47 @@
+id: 6b69e767470f4539825153366a4a7b3f
+annotation_type: index
+revision: '00001'
+annotations:
+  eef180e3ffe24d489ee9798824f39c3b:
+    base: AA84.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 44
+    - title: Homage
+      span:
+        start: 45
+        end: 288
+    - title: Short §1
+      span:
+        start: 289
+        end: 758
+    - title: Short §2
+      span:
+        start: 759
+        end: 1083
+    - title: Short §3
+      span:
+        start: 1084
+        end: 1131
+    - title: Short §4
+      span:
+        start: 1132
+        end: 1511
+    - title: Short §5
+      span:
+        start: 1512
+        end: 1642
+    - title: Short §6
+      span:
+        start: 1643
+        end: 1904
+    - title: Short §7
+      span:
+        start: 1905
+        end: 2677
+    - title: Colophon
+      span:
+        start: 2678
+        end: 2688
